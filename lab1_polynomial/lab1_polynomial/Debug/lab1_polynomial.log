@@ -1,0 +1,12 @@
+﻿  lab1_polynomial.cpp
+c:\users\harri\desktop\bme 1b\bme 122- data structures and algorithms\labs\lab1 good\lab1_polynomial\lab1_polynomial\lab1_polynomial.h(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\harri\desktop\bme 1b\bme 122- data structures and algorithms\labs\lab1 good\lab1_polynomial\lab1_polynomial\lab1_polynomial.h(91): warning C4018: '<': signed/unsigned mismatch
+c:\users\harri\desktop\bme 1b\bme 122- data structures and algorithms\labs\lab1 good\lab1_polynomial\lab1_polynomial\lab1_polynomial.h(121): warning C4018: '<': signed/unsigned mismatch
+c:\users\harri\desktop\bme 1b\bme 122- data structures and algorithms\labs\lab1 good\lab1_polynomial\lab1_polynomial\lab1_polynomial.h(137): warning C4018: '>': signed/unsigned mismatch
+c:\users\harri\desktop\bme 1b\bme 122- data structures and algorithms\labs\lab1 good\lab1_polynomial\lab1_polynomial\lab1_polynomial.h(156): warning C4018: '>': signed/unsigned mismatch
+c:\users\harri\desktop\bme 1b\bme 122- data structures and algorithms\labs\lab1 good\lab1_polynomial\lab1_polynomial\lab1_polynomial.h(172): warning C4018: '<': signed/unsigned mismatch
+c:\users\harri\desktop\bme 1b\bme 122- data structures and algorithms\labs\lab1 good\lab1_polynomial\lab1_polynomial\lab1_polynomial.h(174): warning C4018: '<': signed/unsigned mismatch
+c:\users\harri\desktop\bme 1b\bme 122- data structures and algorithms\labs\lab1 good\lab1_polynomial\lab1_polynomial\lab1_polynomial.h(231): warning C4018: '>=': signed/unsigned mismatch
+c:\users\harri\desktop\bme 1b\bme 122- data structures and algorithms\labs\lab1 good\lab1_polynomial\lab1_polynomial\lab1_polynomial.h(247): warning C4018: '<': signed/unsigned mismatch
+c:\users\harri\desktop\bme 1b\bme 122- data structures and algorithms\labs\lab1 good\lab1_polynomial\lab1_polynomial\lab1_polynomial.cpp(295): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  lab1_polynomial.vcxproj -> C:\Users\harri\Desktop\BME 1B\BME 122- Data Structures and Algorithms\Labs\Lab1 Good\lab1_polynomial\Debug\lab1_polynomial.exe
